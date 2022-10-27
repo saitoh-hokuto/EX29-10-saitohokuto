@@ -36,7 +36,6 @@ public class solids
             if (float.TryParse(Console.ReadLine(), out input))
             {
                 return input;
-                Console.WriteLine("異様な数値が入力されました");
             }
         }
     }
